@@ -6,8 +6,8 @@
 */
 
 body{
-	background-color:#f4f4f4;
-	color:#555555;
+	background-color:#39d9df;
+	color:#ddadad;
 
 	font-family: Arial, Helvetica, sans-serif;
 	font-size:16px;
@@ -21,15 +21,15 @@ body{
 
 a{
 	text-decoration: none;
-	color:#000;
+	color:rgb(5, 4, 4);
 }
 
 a:hover{
-	color:red;
+	color:rgb(230, 115, 115);
 }
 
 a:active{
-	color:green;
+	color:rgb(187, 236, 187);
 }
 
 a:visited{
